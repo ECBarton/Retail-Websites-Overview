@@ -1,5 +1,15 @@
-# Retail Web Design Overview
-## Surplus Warehouse, Bargain Outlets, and Barton's Lumber
+### Retail Web Design Overview
+#### Surplus Warehouse, Bargain Outlets, and Barton's Lumber
+
+---
+### Getting Quickly Up to Speed
+#### Traffic Growth Since 2014
+
+  |SW Users |BO Users|SW Sess.|BO Sess.  
+--|---|---|---|--
+2014|449,387|681,333|692,407|1,048,946
+2017|1,039,473|956,610|1,561,189|1,388,093   
+% Change|+131.31%|+40.40%|+125.47%|+32.33%  
 
 ---
 
@@ -8,7 +18,7 @@
 - Floor and Décor
 - Cabinets to go
 - Cliq Studios
-- ECB app and what it should have.
+- ECB apps vs Lowes and/or Home Depot
 
 ---
 
