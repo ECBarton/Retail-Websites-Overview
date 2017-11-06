@@ -3,7 +3,7 @@
 
 ---
 
-### Our website versus others
+### Us vs. Them
 
 - Floor and Décor
 - Cabinets to go
@@ -12,19 +12,25 @@
 
 ---
 
-### Our website versus others
+### Us vs. Them
 
-I’d like for you to explore state of the art functions. Scanning our UPC codes, typing in measurements and cost/savings appear. Look at Cliqstudios. You can actually build your own cabinets.
+"I’d like for you to explore state of the art functions. Scanning our UPC codes, typing in measurements and cost/savings appear. Look at Cliqstudios. You can actually build your own cabinets."
+
+Steve Brimner
 
 ---
 
-#### Floor and Decor / Pros:
+### Floor and Decor / Pros:
 - Aesthetically pleasing design.
 - Responsive layout is very good.
 - Offers design services in-house.
 - Offers installation services in-house.
 - E-Commerce Site.
-- Figures Bill of Materials based on unit of measure by price.
+
+---
+
+### Floor and Decor / Pros: (Cont'd)
+- Figures Bill of Materials based on unit of measure.
 - Allows customers to keep up with their favorite products and projects. (wishlist)
 - Offers same store pickup.
 - Offers store to store delivery, then pickup.
@@ -32,17 +38,21 @@ I’d like for you to explore state of the art functions. Scanning our UPC codes
 
 ---
 
-#### Floor and Decor / Cons:
+### Floor and Decor / Cons:
 - Design colors are a harsh contrast.
 - Design is dated with the use of photographic tiles and superimposed graphic headings. (Should use machine friendly headings for SEO purposes.)
 - Scores a **62/100** on Hubspot Page Grader.
 - Scores a **15/30** on SEO portion of Hubspot Page Grader.
+
+---
+
+### Floor and Decor / Cons: (Cont'd)
 - Shipping costs for home delivery are cost prohibitive. (Up to 4x more than the subtotal of products.)
 - Shipping costs for store to store pickup are cost prohibitive. (Up to 2x more than the subtotal of products.)
 
 ---
 
-#### Cabinets To Go / Pros:
+### Cabinets To Go / Pros:
 - Offers limited E-Commerce.
 - Shipping for cabinets seems reasonably priced.
 - Offers limited home shipping/delivery.
@@ -51,11 +61,16 @@ I’d like for you to explore state of the art functions. Scanning our UPC codes
 
 ---
 
-#### Cabinets To Go / Cons:
+### Cabinets To Go / Cons:
 - Navigation is a nightmare.
 - Flooring department is an iframe of their lame attempt to copy Surplus Warehouse.
 - Can't buy flooring online.
 - Shopping experience is severely limited and confusing.
+
+---
+
+### Cabinets To Go / Cons: (Cont'd)
+
 - Website design has been polluted and heavily skewed over time.
 - Very inconsistent design language.
 - No product search.
@@ -63,9 +78,7 @@ I’d like for you to explore state of the art functions. Scanning our UPC codes
 
 ---
 
-### Cliqstudios
-
-#### Pros:
+### Cliqstudios / Pros:
 - Clean design.
 - Design language is consistent.
 - Cabinets are delivered to the home for free. (Likely absorbed into price.)
@@ -73,15 +86,17 @@ I’d like for you to explore state of the art functions. Scanning our UPC codes
 - Scores an **87/100** on Hubspot Page Grader.
 - Scores a **30/30** on SEO portion of Hubspot Page Grader.
 
-#### Cons:
+---
+
+### Cliqstudios / Cons:
 - Slow website. 🐢
 - Shopping cart is only used for samples. (What?!)
 - Quote checkout is separate from cart checkout. (No reason for this.)
 - You literally can't use the shopping cart to buy cabinet pieces on a cabinet ordering website. You have to use their convoluted cabinet quote software or phone it in even though there's a cart icon in the main navigation. This is very confusing.
 
-### SW/BO Current
+---
 
-#### Pros:
+### Our Current Pros:
 - Useful navigation.
 - Fast loadtimes.
 - Heavy organic traffic acquisition.
@@ -91,7 +106,9 @@ I’d like for you to explore state of the art functions. Scanning our UPC codes
 - Consistent design language.
 - Provides a ton of Inbound Marketing opportunites.
 
-#### Cons:
+---
+
+### Our Current Cons:
 - Design could be cleaner
 - Search is bulky and inaccurate at times
 - No E-Commerce
@@ -99,6 +116,8 @@ I’d like for you to explore state of the art functions. Scanning our UPC codes
 - No bill of material calculators
 - No interactive cabinet quote builder
 - Store chooser is sometimes a burden
+
+---
 
 ### App Development
 
