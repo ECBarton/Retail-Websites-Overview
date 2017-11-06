@@ -134,41 +134,86 @@ None of the above mentioned websites/companies offer native applications for iOS
 
 ---
 
+### App Development
+
 In addition to that, it is most certainly possible to integrate a SKU/Barcode based scanning feature into an app for product identification within our stores. This would allow customers to put together a list of items and figure a bill of materials based on unit of measure by the price per unit.
+
+---
 
 ### Bumps in the Road
 
 None of the above technologies can be built until we have a foundation for future development that allows us to build upon an API that integrates our inventory, pricing, and other vital data from Bistrack into said API.
 
+---
+
+### Bumps in the Road
+
 We currently have only barely scratched the tip of the iceberg and will have several months of discovery, development, and testing ahead of us before we can be completely sure of how we intend to build web and mobile applications on our current data.
+
+---
+
+### Bumps in the Road
 
 Bistrack, to my knowledge, offers no API for their customers. Their web services are limited at best and do not offer the opportunities that we need in order to complete these challenges. We will literally be developing their missing features for ourselves by using techniques made widely available to true web developers.
 
+---
+
+### Bumps in the Road
+
 In other words, they're going to be envious of the development we complete for ourselves.
+
+---
+
+### Bumps in the Road
 
 Within the company, our road blocks outside of software development will deal primarily with physical and accounting operations.
 
+---
+
 Some considerations to consider are:
-- Logistics
+- Logistics & Returns
 - Sales tracking by store
-- Tax laws
-- Payment processing
-- Returns
-- Order fulfillment
+- Tax Laws & Payment processing
+- Order Fulfillment & Management
 - Customer support
-- Online sales management
+
+---
 
 ### Roadmap and Itinerary
 
-#### Website Development (8-12 months)
+---
+
+### Website Development (8-12 months)
+
+---
 
 1. Set up development environments for Bistrack, Drupal 8, and DreamFactory. Proof of concept complete. **In progress.**
+
+---
+
 2. Contract top developers for Drupal 8 Commerce. **In progress.**
+
+---
+
 3. Open a dialog with Epicor to discover their web processes and develop our own methods and functions around their suggestions. **Contact Made**
+
+---
+
 4. Begin development of API and Drupal 8 bridge for websites. (DreamFactory Configuration)**In progress**
+
+---
+
 5. Build website with shopping cart, memberships, wishlists, calculators, and quote interaction.**To Be Determined**
+
+---
+
 6. Test with the integration into the dev backup version of Bistrack.
+
+---
+
 7. Go live.
+
+---
 
 #### App Development (TBA)
 
