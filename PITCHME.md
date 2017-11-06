@@ -1,7 +1,66 @@
 ### Retail Web Design Overview
 #### Surplus Warehouse, Bargain Outlets, and Barton's Lumber
+By Lee Quessenberry
 
 ---
+
+### Who am I?
+I am a web developer, Drupal 8 contributor, BBQ Sauce maker, duck hunter, and computer scientist.
+
+---
+
+### What Do I Accomplish?
+
+At E.C. Barton & Co. I have been an integral part of pushing the envelope to gain more and more customers via digital means, effectively and efficiently.
+
+---
+
+### Who Are My Teammates?
+
+Tom Dowd, H.R. McDonough, Michael Howard, Christie Miller, and Brandon Barnhill
+
+---
+
+### What Do They Do?
+
+---
+
+### Tom
+
+Tom has been the voice of our team for as long as I have been here. He has taken what would normally be considered "The Marketing Swirl" and relays this information in a way that other departments and executives can understand.
+
+---
+
+### H.R.
+
+H.R. Is the critical thinker of our bunch. His ability to mitigate risk and assist in decision making is a priceless asset to us all.
+
+---
+
+### Michael
+
+Grows and maintains one of the best email campaigns in corporate America. He constantly beats expectations and stays well above industry standard metrics.
+
+---
+
+### Christie
+
+Christie is a voice of reason and has already proven to be our best candidate for keeping a feel for the pulse of our customers. She brings insight into our group that we might overlook and brings fresh ideas to us on demand.
+
+---
+
+### Brandon
+
+Brandon is a workhorse when it comes to development of software and systems. He has overcome expectations both with skill and tact as a member of our team. His troubleshooting skills have shaved valuable time off of our development timetable.
+
+---
+
+### Digital Presence
+
+We focus heavily on inbound marketing to reduce wasteful advertisement spending and get more interaction out of our customers.
+
+---
+
 ### Getting Quickly Up to Speed
 <span class="byline">Traffic Growth Since 2014</span>
 
@@ -10,7 +69,29 @@
 2014|449,387|681,333|692,407|1,048,946
 2017|1,039,473|956,610|1,561,189|1,388,093   
 %|<span class="green">**+131.31%**</span>|<span class="green">**+40.40%**</span>|<span class="green">**+125.47%**</span>|<span class="green">**+32.33%**</span>
+
 ---
+
+### Lead Generation
+
++2,200 in 2014 vs +6,000 in 2017
+
+---
+
+### Inbound Marketing
+
+Inbound marketing is focused on attracting customers through relevant and helpful content and adding value at every stage in your customer's buying journey. With inbound marketing, potential customers find you through channels like blogs, search engines, and social media.
+
+---
+
+Unlike outbound marketing, inbound marketing does not need to fight for potential customers attention. By creating content designed to address the problems and needs of your ideal customers, you attract qualified prospects and build trust and credibility for your business.
+
+---
+
+### Opportunities
+
+- Online Retail Sales (New Territory)
+- Online Membership and Remarketing Opportunities
 
 ### <span class="gold">Us vs. Them</span>
 
@@ -117,6 +198,10 @@
 
 ---
 
+![](https://puu.sh/yg45l/c25b8310c6.png)
+
+---
+
 ### Our Current Cons:
 - Design could be cleaner
 - Search is bulky and inaccurate at times
@@ -187,31 +272,31 @@ Some considerations to consider are:
 
 ---
 
-1. Set up development environments for Bistrack, Drupal 8, and DreamFactory. Proof of concept complete. **In progress.**
+- Set up development environments for Bistrack, Drupal 8, and DreamFactory. Proof of concept complete. **In progress.**
 
 ---
 
-2. Contract top developers for Drupal 8 Commerce. **In progress.**
+- Contract top developers for Drupal 8 Commerce. **In progress.**
 
 ---
 
-3. Open a dialog with Epicor to discover their web processes and develop our own methods and functions around their suggestions. **Contact Made**
+- Open a dialog with Epicor to discover their web processes and develop our own methods and functions around their suggestions. **Contact Made**
 
 ---
 
-4. Begin development of API and Drupal 8 bridge for websites. (DreamFactory Configuration)**In progress**
+- Begin development of API and Drupal 8 bridge for websites. (DreamFactory Configuration) **In progress**
 
 ---
 
-5. Build website with shopping cart, memberships, wishlists, calculators, and quote interaction.**To Be Determined**
+- Build website with shopping cart, memberships, wishlists, calculators, and quote interaction. **To Be Continued**
 
 ---
 
-6. Test with the integration into the dev backup version of Bistrack.
+- Test with the integration into the dev backup version of Bistrack.
 
 ---
 
-7. Go live.
+- Go live.
 
 ---
 
