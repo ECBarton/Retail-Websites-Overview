@@ -93,6 +93,8 @@ Unlike outbound marketing, inbound marketing does not need to fight for potentia
 - Online Retail Sales (New Territory)
 - Online Membership and Remarketing Opportunities
 
+---
+
 ### <span class="gold">Us vs. Them</span>
 
 - Floor and Décor
