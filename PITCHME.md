@@ -21,11 +21,11 @@
 
 ---
 
-### Us vs. Them
+### <span class="gold">Us vs. Them</span>
 
 "I’d like for you to explore state of the art functions. Scanning our UPC codes, typing in measurements and cost/savings appear. Look at Cliqstudios. You can actually build your own cabinets."
 
-Steve Brimner
+<em>Steve Brimner</em>
 
 ---
 
