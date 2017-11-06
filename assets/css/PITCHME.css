@@ -37,3 +37,7 @@ span.aside {
 .reveal section a:hover {
   color: #e7ad52;
 }
+
+.reveal h3 {
+  color: #e49436;
+}
