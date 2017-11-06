@@ -119,6 +119,10 @@ Unlike outbound marketing, inbound marketing does not need to fight for potentia
 
 ---
 
+![](https://puu.sh/ygi26/fb44240984.png)
+
+---
+
 ### Floor and Decor / Pros: (Cont'd)
 - Figures Bill of Materials based on unit of measure.
 - Allows customers to keep up with their favorite products and projects. (wishlist)
@@ -133,6 +137,10 @@ Unlike outbound marketing, inbound marketing does not need to fight for potentia
 - Design is dated with the use of photographic tiles and superimposed graphic headings. (Should use machine friendly headings for SEO purposes.)
 - Scores a **62/100** on Hubspot Page Grader.
 - Scores a **15/30** on SEO portion of Hubspot Page Grader.
+
+---
+
+![](https://puu.sh/yg48t/c5b84beaf9.png)
 
 ---
 
@@ -151,11 +159,19 @@ Unlike outbound marketing, inbound marketing does not need to fight for potentia
 
 ---
 
+![](https://puu.sh/yg4Mg/a38b65a637.png)
+
+---
+
 ### Cabinets To Go / Cons:
 - Navigation is a nightmare.
 - Flooring department is an iframe of their lame attempt to copy Surplus Warehouse.
 - Can't buy flooring online.
 - Shopping experience is severely limited and confusing.
+
+---
+
+![](https://puu.sh/yg4ZE/b11923b4b8.png)
 
 ---
 
@@ -165,6 +181,7 @@ Unlike outbound marketing, inbound marketing does not need to fight for potentia
 - Very inconsistent design language.
 - No product search.
 - Website phoned in from a third party provider and doesn't look maintained.
+
 
 ---
 
