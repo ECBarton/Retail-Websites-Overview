@@ -18,9 +18,7 @@ I’d like for you to explore state of the art functions. Scanning our UPC codes
 
 ---
 
-### Floor and Decor
-
-#### Pros:
+#### Floor and Decor / Pros:
 - Aesthetically pleasing design.
 - Responsive layout is very good.
 - Offers design services in-house.
@@ -32,7 +30,9 @@ I’d like for you to explore state of the art functions. Scanning our UPC codes
 - Offers store to store delivery, then pickup.
 - Offers home delivery.
 
-#### Cons:
+---
+
+#### Floor and Decor / Cons:
 - Design colors are a harsh contrast.
 - Design is dated with the use of photographic tiles and superimposed graphic headings. (Should use machine friendly headings for SEO purposes.)
 - Scores a **62/100** on Hubspot Page Grader.
@@ -40,16 +40,18 @@ I’d like for you to explore state of the art functions. Scanning our UPC codes
 - Shipping costs for home delivery are cost prohibitive. (Up to 4x more than the subtotal of products.)
 - Shipping costs for store to store pickup are cost prohibitive. (Up to 2x more than the subtotal of products.)
 
-### Cabinets To Go
+---
 
-#### Pros:
+#### Cabinets To Go / Pros:
 - Offers limited E-Commerce.
 - Shipping for cabinets seems reasonably priced.
 - Offers limited home shipping/delivery.
 - Scores an **82/100** on Hubspot Page Grader.
 - Scores a **25/30** on SEO portion of Hubspot Page Grader.
 
-#### Cons:
+---
+
+#### Cabinets To Go / Cons:
 - Navigation is a nightmare.
 - Flooring department is an iframe of their lame attempt to copy Surplus Warehouse.
 - Can't buy flooring online.
@@ -58,6 +60,8 @@ I’d like for you to explore state of the art functions. Scanning our UPC codes
 - Very inconsistent design language.
 - No product search.
 - Website phoned in from a third party provider and doesn't look maintained.
+
+---
 
 ### Cliqstudios
 
