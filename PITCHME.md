@@ -13,7 +13,7 @@
 
 ---
 
-### Us vs. Them
+### <span class="gold">Us vs. Them</span>
 
 - Floor and Décor
 - Cabinets to go
