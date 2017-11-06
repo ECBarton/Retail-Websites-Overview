@@ -92,6 +92,7 @@ Unlike outbound marketing, inbound marketing does not need to fight for potentia
 
 - Online Retail Sales (New Territory)
 - Online Membership and Remarketing Opportunities
+- Branding and Legitimacy via Branded Apps
 
 ---
 
