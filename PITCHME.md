@@ -3,14 +3,13 @@
 
 ---
 ### Getting Quickly Up to Speed
-#### Traffic Growth Since 2014
+<span class="byline">Traffic Growth Since 2014</span>
 
   |SW Users |BO Users |SW Sess. |BO Sess.  
 --|---|---|---|--
 2014|449,387|681,333|692,407|1,048,946
 2017|1,039,473|956,610|1,561,189|1,388,093   
-%|**+131.31%**|**+40.40%**|**+125.47%**|**+32.33%**  
-
+%|**+131.31%**|**+40.40%**|**+125.47%**|**+32.33%**
 ---
 
 ### <span class="gold">Us vs. Them</span>
