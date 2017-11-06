@@ -1,4 +1,9 @@
-## Our website versus others
+# Retail Web Design Overview
+## Surplus Warehouse, Bargain Outlets, and Barton's Lumber
+
+---
+
+### Our website versus others
 
 - Floor and Décor
 - Cabinets to go
@@ -6,15 +11,16 @@
 - ECB app and what it should have.
 
 ---
-## Our website versus others
+
+### Our website versus others
 
 I’d like for you to explore state of the art functions. Scanning our UPC codes, typing in measurements and cost/savings appear. Look at Cliqstudios. You can actually build your own cabinets.
 
 ---
 
-## Floor and Decor
+### Floor and Decor
 
-### Pros:
+#### Pros:
 - Aesthetically pleasing design.
 - Responsive layout is very good.
 - Offers design services in-house.
@@ -26,7 +32,7 @@ I’d like for you to explore state of the art functions. Scanning our UPC codes
 - Offers store to store delivery, then pickup.
 - Offers home delivery.
 
-### Cons:
+#### Cons:
 - Design colors are a harsh contrast.
 - Design is dated with the use of photographic tiles and superimposed graphic headings. (Should use machine friendly headings for SEO purposes.)
 - Scores a **62/100** on Hubspot Page Grader.
@@ -34,16 +40,16 @@ I’d like for you to explore state of the art functions. Scanning our UPC codes
 - Shipping costs for home delivery are cost prohibitive. (Up to 4x more than the subtotal of products.)
 - Shipping costs for store to store pickup are cost prohibitive. (Up to 2x more than the subtotal of products.)
 
-## Cabinets To Go
+### Cabinets To Go
 
-### Pros:
+#### Pros:
 - Offers limited E-Commerce.
 - Shipping for cabinets seems reasonably priced.
 - Offers limited home shipping/delivery.
 - Scores an **82/100** on Hubspot Page Grader.
 - Scores a **25/30** on SEO portion of Hubspot Page Grader.
 
-### Cons:
+#### Cons:
 - Navigation is a nightmare.
 - Flooring department is an iframe of their lame attempt to copy Surplus Warehouse.
 - Can't buy flooring online.
@@ -53,9 +59,9 @@ I’d like for you to explore state of the art functions. Scanning our UPC codes
 - No product search.
 - Website phoned in from a third party provider and doesn't look maintained.
 
-## Cliqstudios
+### Cliqstudios
 
-### Pros:
+#### Pros:
 - Clean design.
 - Design language is consistent.
 - Cabinets are delivered to the home for free. (Likely absorbed into price.)
@@ -63,15 +69,15 @@ I’d like for you to explore state of the art functions. Scanning our UPC codes
 - Scores an **87/100** on Hubspot Page Grader.
 - Scores a **30/30** on SEO portion of Hubspot Page Grader.
 
-### Cons:
+#### Cons:
 - Slow website. 🐢
 - Shopping cart is only used for samples. (What?!)
 - Quote checkout is separate from cart checkout. (No reason for this.)
 - You literally can't use the shopping cart to buy cabinet pieces on a cabinet ordering website. You have to use their convoluted cabinet quote software or phone it in even though there's a cart icon in the main navigation. This is very confusing.
 
-## SW/BO Current
+### SW/BO Current
 
-### Pros:
+#### Pros:
 - Useful navigation.
 - Fast loadtimes.
 - Heavy organic traffic acquisition.
@@ -81,7 +87,7 @@ I’d like for you to explore state of the art functions. Scanning our UPC codes
 - Consistent design language.
 - Provides a ton of Inbound Marketing opportunites.
 
-### Cons:
+#### Cons:
 - Design could be cleaner
 - Search is bulky and inaccurate at times
 - No E-Commerce
@@ -90,7 +96,7 @@ I’d like for you to explore state of the art functions. Scanning our UPC codes
 - No interactive cabinet quote builder
 - Store chooser is sometimes a burden
 
-## App Development
+### App Development
 
 None of the above mentioned websites/companies offer native applications for iOS or Android. Cliqstudios does have an interactive cabinet calculator that could be translated into some sort of application feature. Linear feet and area calculators would be something that we could provide online as well as in a dedicated iOS/Android app.
 
@@ -98,7 +104,7 @@ None of the above mentioned websites/companies offer native applications for iOS
 
 In addition to that, it is most certainly possible to integrate a SKU/Barcode based scanning feature into an app for product identification within our stores. This would allow customers to put together a list of items and figure a bill of materials based on unit of measure by the price per unit.
 
-## Bumps in the Road
+### Bumps in the Road
 
 None of the above technologies can be built until we have a foundation for future development that allows us to build upon an API that integrates our inventory, pricing, and other vital data from Bistrack into said API.
 
@@ -120,9 +126,9 @@ Some considerations to consider are:
 - Customer support
 - Online sales management
 
-## Roadmap and Itinerary
+### Roadmap and Itinerary
 
-### Website Development (8-12 months)
+#### Website Development (8-12 months)
 
 1. Set up development environments for Bistrack, Drupal 8, and DreamFactory. Proof of concept complete. **In progress.**
 2. Contract top developers for Drupal 8 Commerce. **In progress.**
@@ -132,7 +138,7 @@ Some considerations to consider are:
 6. Test with the integration into the dev backup version of Bistrack.
 7. Go live.
 
-### App Development (TBA)
+#### App Development (TBA)
 
 1. Determine Prerequisites.
 2. Discovery Process (Several Months)
