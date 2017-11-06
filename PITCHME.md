@@ -5,7 +5,7 @@
 ### Getting Quickly Up to Speed
 #### Traffic Growth Since 2014
 
-  |SW Users |BO Users|SW Sess.|BO Sess.  
+  |SW Users |BO Users |SW Sess. |BO Sess.  
 --|---|---|---|--
 2014|449,387|681,333|692,407|1,048,946
 2017|1,039,473|956,610|1,561,189|1,388,093   
