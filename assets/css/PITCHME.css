@@ -6,6 +6,10 @@
   color: gray;
 }
 
+.green {
+  color: green;
+}
+
 span.byline, span.aside {
   color: #bbb;
 }
